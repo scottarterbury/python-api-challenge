@@ -142,3 +142,5 @@ Remember that each coordinate will trigger a separate call to the Google API. If
 Ensure that your repository has regular commits and a thorough README.md file.
 
 Lastly, remember that this is a challenging activity. Push yourself! If you complete this task, you can safely say that you've gained a strong understanding of the core foundations of data analytics, and it will only get better from here. Good luck!
+
+## NOTES Had help using colleagues and api documentation.  Also browsed stackoverflow for certain bugs that I solved.
